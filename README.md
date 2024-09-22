@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/1e0f68c2-be6f-4a87-9f9f-171c84e3d9c0
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeptansh-nagar&label=Profile%20views&color=0e75b6&style=flat" alt="deeptansh-nagar" /> </p>
 
-- 🌱 I’m currently learning **Python, Java, HTML, CSS, JavaScript, SQL, MongoDB**
+- 🌱 I’m currently learning - **JavaScript, SQL, MongoDB**
 
 - 💬 Ask me about - **animation, UI design & Gsap.**
 
