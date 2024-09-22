@@ -1,3 +1,4 @@
+https://github.com/user-attachments/assets/1e0f68c2-be6f-4a87-9f9f-171c84e3d9c0
 <h1 align="center">Hi 👋, I'm Deeptansh Nagar</h1>
 <h3 align="center">Ideas matter, not the language they are written in.</h3>
 
