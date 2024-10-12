@@ -32,7 +32,6 @@ https://github.com/user-attachments/assets/1e0f68c2-be6f-4a87-9f9f-171c84e3d9c0
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DeeptanshNagar&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DeeptanshNagar&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 
