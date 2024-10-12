@@ -36,5 +36,17 @@ https://github.com/user-attachments/assets/1e0f68c2-be6f-4a87-9f9f-171c84e3d9c0
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DeeptanshNagar&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
