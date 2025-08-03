@@ -52,5 +52,5 @@ https://github.com/user-attachments/assets/1e0f68c2-be6f-4a87-9f9f-171c84e3d9c0
 </picture>
 
 <h3 align="left">📊 LeetCode Stats:</h3>
-<p><a href="https://leetcode.com/u/deeptansh_n17/" target="_blank"><img align="left" src="https://leetcard.jacoblin.cool/Deeptansh_n17?theme=unicorn&ext=contest" alt="Deeptansh_n17" height="300"/></a></p>
+<p><a href="https://leetcode.com/u/deeptansh_n17/" target="_blank"><img align="left" src="https://leetcard.jacoblin.cool/Deeptansh_n17?theme=dark&ext=contest" alt="Deeptansh_n17" height="300"/></a></p>
 <p><a href="https://leetcode.com/u/deeptansh_n17/" target="_blank"><img align="center" src="https://leetcard.jacoblin.cool/Deeptansh_n17?theme=unicorn&ext=heatmap" alt="Deeptansh_n17" height="300"/></a></p>
