@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/1e0f68c2-be6f-4a87-9f9f-171c84e3d9c0
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DeeptanshNagar&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DeeptanshNagar&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeeptanshNagar&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deeptansh_nagar17&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DeeptanshNagar&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
