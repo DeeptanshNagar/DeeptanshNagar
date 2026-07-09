@@ -52,5 +52,5 @@ https://github.com/user-attachments/assets/1e0f68c2-be6f-4a87-9f9f-171c84e3d9c0
 </picture>
 
 <h3 align="left">📊 LeetCode Stats:</h3>
-<p><a href="https://leetcode.com/u/gayalhuparghatakhu/" target="_blank"><img align="left" src="https://leetcard.jacoblin.cool/Amit-S-Sahu?theme=unicorn&ext=contest" alt="Amit-S-Sahu" height="300"/></a></p>
-<p><a href="https://leetcode.com/u/gayalhuparghatakhu/" target="_blank"><img align="center" src="https://leetcard.jacoblin.cool/Amit-S-Sahu?theme=unicorn&ext=heatmap" alt="Amit-S-Sahu" height="300"/></a></p>
+<p><a href="https://leetcode.com/u/gayalhuparghatakhu/" target="_blank"><img align="left" src="https://leetcard.jacoblin.cool/gayalhuparghatakhu?theme=unicorn&ext=contest" alt="gayalhuparghatakhu" height="300"/></a></p>
+<p><a href="https://leetcode.com/u/gayalhuparghatakhu/" target="_blank"><img align="center" src="https://leetcard.jacoblin.cool/gayalhuparghatakhu?theme=unicorn&ext=heatmap" alt="gayalhuparghatakhu" height="300"/></a></p>
