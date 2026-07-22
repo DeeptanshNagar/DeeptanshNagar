@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Deeptansh Nagar — AI Security Engineer by profession, builder of autonomous AI systems by passion. For the past year, I've been building AI-powered security solutions across application security, agentic AI, and security automation—developing secure AI workflows, automating vulnerability detection, and creating intelligent systems that make security faster and smarter.
+I'm Deeptansh Nagar, a Final year Cyber Security & Digital Forensics student passionate about securing the next generation of AI systems. Over the past year, I've built AI-driven security solutions spanning application security, agentic AI and security automation, focusing on secure AI workflows, automated vulnerability detection, and intelligent security engineering.
 
 Beyond cybersecurity, I enjoy building AI agents, contributing to open source, and solving algorithmic problems.
 
