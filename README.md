@@ -4,7 +4,7 @@ I'm Deeptansh Nagar, a Final year Cyber Security & Digital Forensics student pas
 Beyond cybersecurity, I enjoy building AI agents, contributing to open source, and solving algorithmic problems.
 
 <b>AI Security & AppSec :</b> LLM Security, OWASP Top 10, SAST/DAST, OWASP ZAP, Burp Suite, Snyk, SonarQube, Checkov, Gitleaks, Trivy<br>
-<b>Programming :</b> Python, Go, Java, Bash<br>
+<b>Programming :</b> Python, Go, Java, JavaScript, Bash<br>
 <b>Automation :</b> Claude Code, Claude Agent SDK, OpenAI APIs<br>
 <b>Cloud & DevOps :</b> AWS, Docker, Kubernetes, Terraform, GitHub Actions, CI/CD, Linux<br>
 <b>Web & Backend :</b> React, Node.js, Express.js, SQL, PostgreSQL, MongoDB, REST APIs<br>
